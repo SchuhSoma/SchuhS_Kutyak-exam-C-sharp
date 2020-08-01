@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\bin\Debug\SchuhS_Kutyak.exe.config
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\bin\Debug\SchuhS_Kutyak.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\bin\Debug\SchuhS_Kutyak.pdb
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\obj\Debug\SchuhS_Kutyak.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\obj\Debug\SchuhS_Kutyak.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\obj\Debug\SchuhS_Kutyak.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kutyak\SchuhS_Kutyak\obj\Debug\SchuhS_Kutyak.pdb
